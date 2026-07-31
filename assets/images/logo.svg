@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" role="img" aria-labelledby="logoTitle">
+  <!--
+    CODED APPROXIMATION OF THE REAL LOGO – built from the supplied logo.jpg reference
+    (dark green "IHL TRANSPORT" wordmark with a curved road/ribbon underline).
+    This file could not be generated from the original binary image, so it is a
+    hand-built stand-in. Replace with the real logo (vector or high-res raster)
+    for pixel-perfect brand match.
+  -->
+  <title id="logoTitle">IHL TRANSPORT</title>
+  <text x="280" y="66" text-anchor="middle" font-family="'Arial Black','Inter',sans-serif"
+        font-weight="900" font-size="46" letter-spacing="1" fill="#1f4a35" font-style="italic">IHL TRANSPORT</text>
+  <path d="M30 96 C 150 82, 340 82, 430 92 C 395 98, 340 96, 280 100 C 395 100, 470 96, 530 76
+           C 512 100, 465 112, 400 116 C 260 128, 120 122, 30 108 Z"
+        fill="#1f4a35"/>
+</svg>
